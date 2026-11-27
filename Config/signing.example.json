@@ -1,0 +1,30 @@
+[
+  {
+    "op": "set",
+    "owner": "InkPad",
+    "config": "Debug",
+    "key": "PRODUCT_BUNDLE_IDENTIFIER",
+    "value": "com.example.inkpad"
+  },
+  {
+    "op": "set",
+    "owner": "InkPad",
+    "config": "Release",
+    "key": "PRODUCT_BUNDLE_IDENTIFIER",
+    "value": "com.example.inkpad"
+  },
+  {
+    "op": "set",
+    "owner": "InkPad",
+    "config": "Debug",
+    "key": "DEVELOPMENT_TEAM",
+    "value": "YOUR_TEAM_ID"
+  },
+  {
+    "op": "set",
+    "owner": "InkPad",
+    "config": "Release",
+    "key": "DEVELOPMENT_TEAM",
+    "value": "YOUR_TEAM_ID"
+  }
+]
